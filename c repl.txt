@@ -18,4 +18,6 @@ https://replit.com/@MADDIPATI-CHAND/gradespercentage
 
 https://replit.com/@MADDIPATI-CHAND/gradeschar
 
-https://replit.com/@MADDIPATI-CHAND/weather
+https://replit.com/@MADDIPATI-CHAND/weather\
+
+https://replit.com/@MADDIPATI-CHAND/units-charge-monney#main.c
