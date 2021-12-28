@@ -27,3 +27,5 @@ https://replit.com/@MADDIPATI-CHAND/switch
 https://replit.com/@MADDIPATI-CHAND/switch-operator-two-nos
 
 https://replit.com/@MADDIPATI-CHAND/switch-questions
+
+https://replit.com/@MADDIPATI-CHAND/nested-loops#main.c
